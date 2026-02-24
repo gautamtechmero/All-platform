@@ -1,0 +1,7 @@
+{
+  "name": "DriveFlow Automation",
+  "description": "Enterprise-grade social media automation that syncs Google Drive content to YouTube, Instagram, Facebook, and LinkedIn with automated scheduling and Google Sheets tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
